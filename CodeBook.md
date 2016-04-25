@@ -32,7 +32,7 @@ Physical activity performed by the subject, can be any of the following value:
   
 2. **Subject**  
 (integer)  
-There are 30 participants acting as the subjects in this exercise. Each of them is represented by an unique numeric ID and the **value of the ID is ranged from 1 to 30. 
+There are 30 participants acting as the subjects in this exercise. Each of them is represented by an unique numeric ID and the value of the ID is ranged from 1 to 30. 
 
 ## Measurement Variable
 1. **TimeBodyAccelerationMean-X**  
