@@ -21,7 +21,7 @@ In general, the variables can be categorised into:
 
 ## Categorical Variable
 1. **Activity**  
-(factor)
+(factor)  
 Physical activity performed by the subject, can be any of the following value:  
     1.STANDING  
     2.SITTING  
@@ -31,265 +31,265 @@ Physical activity performed by the subject, can be any of the following value:
     6.WALKING_UPSTAIRS  
   
 2. **Subject**  
-(integer)
+(integer)  
 There are 30 participants acting as the subjects in this exercise. Each of them is represented by an unique numeric ID and the **value of the ID is ranged from 1 to 30. 
 
 ## Measurement Variable
 1. **TimeBodyAccelerationMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 2. **TimeBodyAccelerationMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 3. **TimeBodyAccelerationMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 4. **TimeBodyAccelerationSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 5. **TimeBodyAccelerationSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 6. **TimeBodyAccelerationSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 7. **TimeGravityAccelerationMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 8. **TimeGravityAccelerationMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 9. **TimeGravityAccelerationMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 10. **TimeGravityAccelerationSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 11. **TimeGravityAccelerationSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 12. **TimeGravityAccelerationSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 13. **TimeBodyAccelerationJerkMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 14. **TimeBodyAccelerationJerkMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 15. **TimeBodyAccelerationJerkMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 16. **TimeBodyAccelerationJerkSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 17. **TimeBodyAccelerationJerkSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 18. **TimeBodyAccelerationJerkSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 19. **TimeBodyGyrometerMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 20. **TimeBodyGyrometerMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 21. **TimeBodyGyrometerMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 22. **TimeBodyGyrometerSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 23. **TimeBodyGyrometerSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 24. **TimeBodyGyrometerSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 25. **TimeBodyGyrometerJerkMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 26. **TimeBodyGyrometerJerkMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 27. **TimeBodyGyrometerJerkMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 28. **TimeBodyGyrometerJerkSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 29. **TimeBodyGyrometerJerkSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 30. **TimeBodyGyrometerJerkSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 31. **TimeBodyAccelerationMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 32. **TimeBodyAccelerationMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 33. **TimeGravityAccelerationMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 34. **TimeGravityAccelerationMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 35. **TimeBodyAccelerationJerkMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 36. **TimeBodyAccelerationJerkMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 37. **TimeBodyGyrometerMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 38. **TimeBodyGyrometerMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 39. **TimeBodyGyrometerJerkMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 40. **TimeBodyGyrometerJerkMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 41. **FrequencyBodyAccelerationMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 42. **FrequencyBodyAccelerationMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 43. **FrequencyBodyAccelerationMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 44. **FrequencyBodyAccelerationSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 45. **FrequencyBodyAccelerationSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 46. **FrequencyBodyAccelerationSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 47. **FrequencyBodyAccelerationMeanFrequency-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 48. **FrequencyBodyAccelerationMeanFrequency-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 49. **FrequencyBodyAccelerationMeanFrequency-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 50. **FrequencyBodyAccelerationJerkMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 51. **FrequencyBodyAccelerationJerkMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 52. **FrequencyBodyAccelerationJerkMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 53. **FrequencyBodyAccelerationJerkSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 54. **FrequencyBodyAccelerationJerkSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 55. **FrequencyBodyAccelerationJerkSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 56. **FrequencyBodyAccelerationJerkMeanFrequency-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 57. **FrequencyBodyAccelerationJerkMeanFrequency-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 58. **FrequencyBodyAccelerationJerkMeanFrequency-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 59. **FrequencyBodyGyrometerMean-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 60. **FrequencyBodyGyrometerMean-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 61. **FrequencyBodyGyrometerMean-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 62. **FrequencyBodyGyrometerSTD-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 63. **FrequencyBodyGyrometerSTD-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 64. **FrequencyBodyGyrometerSTD-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 65. **FrequencyBodyGyrometerMeanFrequency-X**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 66. **FrequencyBodyGyrometerMeanFrequency-Y**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 67. **FrequencyBodyGyrometerMeanFrequency-Z**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 68. **FrequencyBodyAccelerationMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 69. **FrequencyBodyAccelerationMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 70. **FrequencyBodyAccelerationMagnitudeMeanFrequency**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 71. **FrequencyBodyAccelerationJerkMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 72. **FrequencyBodyAccelerationJerkMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 73. **FrequencyBodyAccelerationJerkMagnitudeMeanFrequency**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 74. **FrequencyBodyGyrometerMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 75. **FrequencyBodyGyrometerMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 76. **FrequencyBodyGyrometerMagnitudeMeanFrequency**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 77. **FrequencyBodyGyrometerJerkMagnitudeMean**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 78. **FrequencyBodyGyrometerJerkMagnitudeSTD**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 79. **FrequencyBodyGyrometerJerkMagnitudeMeanFrequency**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 80. **Angle(tBodyAccelerationMean,Gravity)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 81. **Angle(tBodyAccelerationJerkMean),GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 82. **Angle(tBodyGyrometerMean,GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 83. **Angle(tBodyGyrometerJerkMean,GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 84. **Angle(X,GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 85. **Angle(Y,GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
 86. **Angle(Z,GravityMean)**  
-(numeric)
+(numeric)  
 Measurement being summarized by computing the average of each variable for each activity and each subject.   
