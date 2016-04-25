@@ -9,7 +9,7 @@ This is a Coursera course project of 'Getting and Cleaning Data'. The 'run_analy
 5. Select the subject id, activity id and measurements with mean and standard deviation from the merged dataset in (4). This would require mapping from the measurement names data.
 6. Map the activity id column in datasets from (5) to its corresponding descriptive name.
 7. Rename the variable names in dataset from (6) to descriptive variable names.
-8. Create another copy of tidy dataset based on dataset in (7). Summarise the dataset by computing the average of each variable for each activity and each subject.
+8. Create another copy of tidy dataset based on dataset in (7). Summarise the dataset by computing the average of each variable for each activity and each subject. The tidy dataset is saved into 'Tidy.txt' within the same working folder.
 
 The following library is required to support the above data cleaning:
 
