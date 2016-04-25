@@ -1,7 +1,7 @@
-
 # Getting and Cleaning Data - Course Project
 
 This is a Coursera course project of 'Getting and Cleaning Data'. The 'run_analysis.R' file does the following in sequence:
+
 1. Download the dataset zip file from UCI and unzip it to the current working folder
 2. Load the measurement names, activity labels, test data and train data into data frame.
 3. Merge (column wise) the subject id, activity id and measurement data into one dataset for test data and train data respectively.
@@ -12,5 +12,6 @@ This is a Coursera course project of 'Getting and Cleaning Data'. The 'run_analy
 8. Create another copy of tidy dataset based on dataset in (7). Summarise the dataset by computing the average of each variable for each activity and each subject.
 
 The following library is required to support the above data cleaning:
+
 1. dplyr
 2. tidyr
